@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityTabFromXamarin.UWP", "
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "UnityTabFromXamarin", "UnityTabFromXamarin\UnityTabFromXamarin\UnityTabFromXamarin.shproj", "{E0E566EF-6DB9-419D-9F3F-22FCB6BA79FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityTab.Mac", "UnityTab.Mac\UnityTab.Mac.csproj", "{6C315AC1-8F6B-41B0-A9A2-445A164B5B4D}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		UnityTabFromXamarin\UnityTabFromXamarin\UnityTabFromXamarin.projitems*{b69a0285-42d5-4677-9beb-7d4745ebdf45}*SharedItemsImports = 4
@@ -64,6 +66,22 @@ Global
 		{B69A0285-42D5-4677-9BEB-7D4745EBDF45}.Release|x86.ActiveCfg = Release|x86
 		{B69A0285-42D5-4677-9BEB-7D4745EBDF45}.Release|x86.Build.0 = Release|x86
 		{B69A0285-42D5-4677-9BEB-7D4745EBDF45}.Release|x86.Deploy.0 = Release|x86
+		{6C315AC1-8F6B-41B0-A9A2-445A164B5B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C315AC1-8F6B-41B0-A9A2-445A164B5B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C315AC1-8F6B-41B0-A9A2-445A164B5B4D}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{6C315AC1-8F6B-41B0-A9A2-445A164B5B4D}.Debug|ARM.Build.0 = Debug|Any CPU
+		{6C315AC1-8F6B-41B0-A9A2-445A164B5B4D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6C315AC1-8F6B-41B0-A9A2-445A164B5B4D}.Debug|x64.Build.0 = Debug|Any CPU
+		{6C315AC1-8F6B-41B0-A9A2-445A164B5B4D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6C315AC1-8F6B-41B0-A9A2-445A164B5B4D}.Debug|x86.Build.0 = Debug|Any CPU
+		{6C315AC1-8F6B-41B0-A9A2-445A164B5B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C315AC1-8F6B-41B0-A9A2-445A164B5B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C315AC1-8F6B-41B0-A9A2-445A164B5B4D}.Release|ARM.ActiveCfg = Release|Any CPU
+		{6C315AC1-8F6B-41B0-A9A2-445A164B5B4D}.Release|ARM.Build.0 = Release|Any CPU
+		{6C315AC1-8F6B-41B0-A9A2-445A164B5B4D}.Release|x64.ActiveCfg = Release|Any CPU
+		{6C315AC1-8F6B-41B0-A9A2-445A164B5B4D}.Release|x64.Build.0 = Release|Any CPU
+		{6C315AC1-8F6B-41B0-A9A2-445A164B5B4D}.Release|x86.ActiveCfg = Release|Any CPU
+		{6C315AC1-8F6B-41B0-A9A2-445A164B5B4D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
